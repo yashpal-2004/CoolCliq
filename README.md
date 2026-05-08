@@ -79,18 +79,3 @@ The architecture is built on a relational PostgreSQL foundation:
    ```
 
 ---
-
-## 🎯 Evaluation Criteria Fulfillment
-
-| Criteria | Implementation Detail |
-| :--- | :--- |
-| **Mobile-First UX** | Bespoke editorial design, optimized for thumb-reach and speed. |
-| **Anonymous Flow** | Complete anonymity lifecycle from QR scan to Table Reveal. |
-| **Trust & Safety** | Built-in Safety Exit, User Blocking, and Geo-validation. |
-| **Full DB Architecture** | Included `prisma/schema.prisma` and `supabase_setup.sql`. |
-| **Admin Controls** | Role-based dashboard with CSV/PDF export capabilities. |
-
----
-
-**Designed & Developed for CoolCliq Assessment.**  
-*Clean, fast, and secure.*
