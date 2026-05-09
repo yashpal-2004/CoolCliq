@@ -2,8 +2,21 @@
 
 CoolCliq is a high-fidelity, privacy-first social platform designed to bridge the gap between digital discovery and real-world meeting. It allows users to find active venues, see who’s present, and initiate anonymous 1-to-1 chats, eventually leading to a mutual table-reveal for a face-to-face meet.
 
-**Live Demo**: [Deploy to Netlify/Vercel]  
+**Live Demo**: [https://coolcliq-yashpal.netlify.app/](https://coolcliq-yashpal.netlify.app/)  
+**Figma Design**: [View on Figma](https://www.figma.com/design/BCqyXgH9GJFFh0k3v2cnEG/CoolCliq?node-id=0-1&t=qGj50MIejkmHVtaV-1)  
+**Figma Prototype**: [View Live Prototype](https://toffee-pearl-08681712.figma.site/)  
 **Evaluation Target**: Phase 1 Production-Ready MVP
+
+---
+
+## Submission Details
+
+- **Contact**: [yashpal.2024@nst.rishihood.edu.in](mailto:yashpal.2024@nst.rishihood.edu.in)
+- **Included Deliverables**:
+  - Full Frontend Application (React/Vite)
+  - Interactive Figma Design & Prototype
+  - PostgreSQL Database Schema (`supabase_setup.sql`)
+  - Production-Ready Landing Page
 
 ---
 
